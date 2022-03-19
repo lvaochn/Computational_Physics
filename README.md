@@ -1,5 +1,5 @@
 # Computational_Physics
-This is my homework of computatioanl physics A in USTC, 2021 autumn.
+This is my homework of computatioanl physics A in USTC, 2021 autumn.//
 Here are some very brief descriptions of every question.You can check my reports for more details.
 1. random number generator
 2. fibonacci delay generator
