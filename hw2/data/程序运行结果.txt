@@ -1,0 +1,6 @@
+The account X_n+1>X_n-1>X_n of 16807 generator is 0.165990
+The account X_n+1>X_n-1>X_n of Fibonacci generator(p=24,q=55) is 0.167860
+The account X_n+1>X_n-1>X_n of Fibonacci generator(p=37,q=100) is 0.166380
+The account X_n+1>X_n-1>X_n of Fibonacci generator(p=38,q=89) is 0.166060
+The account X_n+1>X_n-1>X_n of Fibonacci generator(p=30,q=127) is 0.167350
+The account X_n+1>X_n-1>X_n of Fibonacci generator(p=103,q=250) is 0.166270
